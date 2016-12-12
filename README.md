@@ -6,12 +6,12 @@ This project is cold drinks vending machine software in Japan.
 
 * Display goods (Limited 30 goods)
 * Recognize a coin or a bill every time insert 
-* Select goods someone want to drink
-* Do a little math when pushed button
-* Output changes
-* Collect for bought good
+* Choose goods
+* Do a little math for total, changes when pushed button
+* Have a collect for bought good
+* Write transaction log
 
-ref: https://selfservicedesign.wordpress.com/tag/vending-machines/
+FYI: https://selfservicedesign.wordpress.com/tag/vending-machines/
 
 ### Input / Output
 
@@ -101,6 +101,24 @@ CHANGE ¥2080
     ¥10 * 3
 ****************************
 
+Roulet result...
+
+7 7 7
+
+Congratulatioins! You won bonus. Choose the following beverage.
+
+[1] Coca-Cola
+[2] Pepsi
+[3] Iced coffee
+[4] Iced tea
+[5]
+...
+
+> 2
+
+See you!
+
+Write transaction log... > /hoge/2016120100000000.log
 ```
 
 ## License
