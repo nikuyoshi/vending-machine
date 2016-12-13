@@ -1,8 +1,11 @@
-# vending-machine
+vending-machine
+===============
 
 This project is cold drinks vending machine software in Japan.  
 
-## Specifications
+Specifications
+--------------
+
 
 * Display goods (Limited 30 goods)
 * Recognize a coin or a bill every time insert 
@@ -13,7 +16,8 @@ This project is cold drinks vending machine software in Japan.
 
 FYI: https://selfservicedesign.wordpress.com/tag/vending-machines/
 
-### Input / Output
+Input / Output
+--------------
 
 #### Input 
 
