@@ -16,6 +16,11 @@ Specifications
 
 FYI: https://selfservicedesign.wordpress.com/tag/vending-machines/
 
+State Transition 
+----------------
+
+
+
 Input / Output
 --------------
 
